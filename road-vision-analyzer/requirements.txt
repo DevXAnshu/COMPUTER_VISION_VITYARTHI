@@ -1,0 +1,5 @@
+numpy
+opencv-python
+pytest
+# Optional (only needed for the --ocr flag; also requires the Tesseract binary):
+# pytesseract

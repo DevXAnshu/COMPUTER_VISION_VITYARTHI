@@ -1,0 +1,30 @@
+[
+    {
+        "image": "synthetic_number_plate_plate1.png",
+        "status": "ok",
+        "error": null,
+        "image_size": {
+            "width": 360,
+            "height": 360
+        },
+        "traffic_signs": [],
+        "number_plates": [
+            {
+                "detected": true,
+                "confidence": 95.5,
+                "bounding_box": {
+                    "x": 168,
+                    "y": 163,
+                    "width": 140,
+                    "height": 35
+                },
+                "area": 4900,
+                "aspect_ratio": 4.0,
+                "plate_image": "outputs/plates/synthetic_number_plate_plate1_plate1.png",
+                "ocr_text": "435SR",
+                "ocr_status": "ok"
+            }
+        ],
+        "annotated_image": "outputs/detections/synthetic_number_plate_plate1_annotated.jpg"
+    }
+]
